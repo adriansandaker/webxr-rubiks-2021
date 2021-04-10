@@ -38,7 +38,7 @@ Denne listen inneholder lenker til diverse ressurser for å lære mer om WebXR. 
 
 [Firefox: Hello WebXR](https://www.youtube.com/watch?v=uXBDogyGXTQ) - Demo av WebXR fra Mozilla.
 
-[Google WebXR Experiments: AR and VR made for the web](https://www.youtube.com/watch?v=ttDyimAk88Y) (Video)
+[Google WebXR Experiments: AR and VR made for the web](https://www.youtube.com/watch?v=ttDyimAk88Y)
 
 
 # Guider og læring
@@ -76,5 +76,9 @@ Denne listen inneholder lenker til diverse ressurser for å lære mer om WebXR. 
 [A-Frame](https://aframe.io/) - Rammeverk for å bygge 3D/AR/VR applikasjoner på web. 
 
 [Unity WebXR Export](https://github.com/De-Panther/unity-webxr-export) - Verktøy for å eksportere Unity applikasjoner til WebXR
+
+[WebXR Emulator (Chrome)](https://chrome.google.com/webstore/detail/webxr-api-emulator/mjddjgeghkdijejnciaefnkjmkafnnje) - Add-on til Chrome for å kjøre WebXR i desktop browseren under utvikling.
+
+[WebXR Emulator (Firefox)](https://addons.mozilla.org/nb-NO/firefox/addon/webxr-api-emulator/) - Add-on til Firefox for å kjøre WebXR i desktop browseren under utvikling.
 
 [WebXR Polyfill](https://github.com/immersive-web/webxr-polyfill)
