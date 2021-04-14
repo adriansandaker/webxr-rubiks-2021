@@ -34,6 +34,8 @@ Denne listen inneholder lenker til diverse ressurser for å lære mer om WebXR. 
 
 [WebXR Sneakers](https://webxr-sneakers.lusion.co/product/10) - Eksempel på forhåndsvisning av produkter i AR.
 
+[Google Floom](https://floom.withgoogle.com/) - Åpne en tunnel til den andre siden av jordkloden gjennom AR.
+
 ### Video 
 
 [Firefox: Hello WebXR](https://www.youtube.com/watch?v=uXBDogyGXTQ) - Demo av WebXR fra Mozilla.
@@ -69,9 +71,9 @@ Denne listen inneholder lenker til diverse ressurser for å lære mer om WebXR. 
 
 # Verktøy, biblioteker og rammeverk.
 
-[three.js](https://threejs.org) - Populært og mye brukt bibliotek for 3D på web. Har god WebXR støtte.
+[three.js](https://threejs.org) - Populært og mye brukt bibliotek for 3D på web, med god WebXR støtte.
 
-[BabylonJS](https://www.babylonjs.com/) - Stort og kraftig bibliotek for 3D på web.
+[BabylonJS](https://www.babylonjs.com/) - Stort og kraftig bibliotek for 3D på web. Har svært god WebXR støtte.
 
 [A-Frame](https://aframe.io/) - Rammeverk for å bygge 3D/AR/VR applikasjoner på web. 
 
