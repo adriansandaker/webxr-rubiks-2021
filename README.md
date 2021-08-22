@@ -1,6 +1,6 @@
 # WebXR Resursser
 
-Denne listen inneholder lenker til diverse ressurser for å lære mer om WebXR. Blant linkene under finner du demoer, guider og tutorials samt generell informasjon om WebXR Devide API.
+Denne listen inneholder lenker til diverse ressurser for å lære mer om WebXR. Blant linkene under finner du demoer, guider og tutorials samt generell informasjon om WebXR Device API.
 
 # Generelt
 
